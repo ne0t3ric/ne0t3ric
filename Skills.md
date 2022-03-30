@@ -4,12 +4,12 @@
 
 ### Javascript (ES5/ES6/ESnext)
 
-VueJS
-ReactJS
+- VueJS
+- ReactJS
 
 ### NodeJS
 
-Express
+- Express
 
 ### Typescript
 
@@ -17,13 +17,13 @@ Express
 
 ### Bundlers
 
-Webpack
-Gulp
+- Webpack
+- Gulp
 
 ### PHP
 
-Zend
-Laravel
+- Zend
+- Laravel
 
 ### Bash
 
@@ -31,7 +31,7 @@ Laravel
 
 ### Perl
 
-Scripts development
+- Scripts development
 
 ## Systems and networks
 
@@ -47,21 +47,21 @@ Kanban
 
 ## DevOps
 
-Gitlab CI : runner, etc...
-LambdaTest
+- Gitlab CI : runner, etc...
+- LambdaTest
 
 ## Security
 
-OWASP
+- OWASP
 
 ## Workflow
 
-MR/PR
-Gitflow
-Gitlab flow
-Code review
-Redmine
-Gitlab dashboard
+- MR/PR
+- Gitflow
+- Gitlab flow
+- Code review
+- Redmine
+- Gitlab dashboard
 
 ## Official courses
 
