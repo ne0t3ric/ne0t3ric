@@ -2,27 +2,36 @@
 
 ## Languages 
 
-### Bash
-
-### Python
-
 ### Javascript (ES5/ES6/ESnext)
+
+VueJS
+ReactJS
 
 ### NodeJS
 
 Express
-Webpack
-
-### PHP
-
-### Perl
 
 ### Typescript
 
 ### LESS / SASS
 
+### Bundlers
 
+Webpack
+Gulp
 
+### PHP
+
+Zend
+Laravel
+
+### Bash
+
+### Python
+
+### Perl
+
+Scripts development
 
 ## Systems and networks
 
@@ -57,5 +66,5 @@ Gitlab dashboard
 ## Official courses
 
 
-
-
+- Design patterns
+- Web Security
