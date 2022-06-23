@@ -13,25 +13,32 @@
 
 ### Typescript
 
-### LESS / SASS
+### Style
+
+- CSS
+- Less
+- Sass
 
 ### Bundlers
 
 - Webpack
 - Gulp
+- Vite
 
 ### PHP
 
 - Zend
 - Laravel
 
-### Bash
+### Scripting
+
+- Bash
+- Perl
 
 ### Python
 
-### Perl
-
-- Scripts development
+- Python3
+- flask
 
 ## Systems and networks
 
@@ -39,11 +46,12 @@ dba : Postgres, pgbouncer
 
 sysadmin : vsftpd, apache, nginx, berkeley db
 
-monitoring : Kibana + express
+monitoring : Kibana + elasticsearch
 
 ## Methodology
 
 Kanban
+GTD
 
 ## DevOps
 
@@ -64,7 +72,6 @@ Kanban
 - Gitlab dashboard
 
 ## Official courses
-
 
 - Design patterns
 - Web Security
