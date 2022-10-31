@@ -4,6 +4,7 @@
 
 ### Javascript (ES5/ES6/ESnext)
 
+- vanilla ;)
 - VueJS
 - ReactJS
 
@@ -39,6 +40,7 @@
 
 - Python3
 - flask
+- aiohttp
 
 ## Systems and networks
 
@@ -52,6 +54,7 @@ monitoring : Kibana + elasticsearch
 
 Kanban
 GTD
+Pomodoro
 
 ## DevOps
 
@@ -61,6 +64,8 @@ GTD
 ## Security
 
 - OWASP
+- HTTP smugling
+- 
 
 ## Workflow
 
